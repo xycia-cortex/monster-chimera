@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-chimera
+  x-cortex-tag: monster-chimera
+  x-cortex-custom-metadata:
+    alignment: neutral-good
+    type: monstrosity
+    challenge_rating: 1
+    legendary: false
+    armor_class: 11
+    hit_points: 182
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-chimera
+      alias: github-token-test
